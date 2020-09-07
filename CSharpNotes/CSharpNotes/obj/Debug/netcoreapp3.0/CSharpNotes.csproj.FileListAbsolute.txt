@@ -1,0 +1,11 @@
+C:\Users\Sher Antonette Go\source\repos\CSharpNotes\CSharpNotes\bin\Debug\netcoreapp3.0\CSharpNotes.exe
+C:\Users\Sher Antonette Go\source\repos\CSharpNotes\CSharpNotes\bin\Debug\netcoreapp3.0\CSharpNotes.deps.json
+C:\Users\Sher Antonette Go\source\repos\CSharpNotes\CSharpNotes\bin\Debug\netcoreapp3.0\CSharpNotes.runtimeconfig.json
+C:\Users\Sher Antonette Go\source\repos\CSharpNotes\CSharpNotes\bin\Debug\netcoreapp3.0\CSharpNotes.runtimeconfig.dev.json
+C:\Users\Sher Antonette Go\source\repos\CSharpNotes\CSharpNotes\bin\Debug\netcoreapp3.0\CSharpNotes.dll
+C:\Users\Sher Antonette Go\source\repos\CSharpNotes\CSharpNotes\bin\Debug\netcoreapp3.0\CSharpNotes.pdb
+C:\Users\Sher Antonette Go\source\repos\CSharpNotes\CSharpNotes\obj\Debug\netcoreapp3.0\CSharpNotes.csprojAssemblyReference.cache
+C:\Users\Sher Antonette Go\source\repos\CSharpNotes\CSharpNotes\obj\Debug\netcoreapp3.0\CSharpNotes.AssemblyInfoInputs.cache
+C:\Users\Sher Antonette Go\source\repos\CSharpNotes\CSharpNotes\obj\Debug\netcoreapp3.0\CSharpNotes.AssemblyInfo.cs
+C:\Users\Sher Antonette Go\source\repos\CSharpNotes\CSharpNotes\obj\Debug\netcoreapp3.0\CSharpNotes.dll
+C:\Users\Sher Antonette Go\source\repos\CSharpNotes\CSharpNotes\obj\Debug\netcoreapp3.0\CSharpNotes.pdb
